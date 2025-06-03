@@ -1,2 +1,2 @@
 # Cryptographie
-TP Cryptographie Yomani (Efrei - Boris ROSE) 
+TPs Cryptographie de YOUMBISSI Yomani (Efrei - Boris ROSE) 
